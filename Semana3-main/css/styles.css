@@ -1,0 +1,21 @@
+h1{color: red;}h2{color: blue;}
+.jul-large {
+    font-size: 70px;
+}
+body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+  }
+
+  main {
+    flex: 1 0 auto;
+  }
+
+.box {
+    width: 500px;
+    padding: 20px;
+    background-color: #eeeeee;
+    border: 1px solid #000;
+    border-radius: 25px;
+}
